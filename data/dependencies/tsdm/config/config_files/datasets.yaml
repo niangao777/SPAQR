@@ -1,0 +1,5 @@
+# Dataset sources retained by the SPAQR main-experiment release.
+Human Activity: https://archive.ics.uci.edu/dataset/196/localization+data+for+person+activity
+MIMIC-III: https://physionet.org/content/mimiciii/1.4/
+Physionet 2012: https://physionet.org/content/challenge-2012/1.0.0/
+USHCN: https://github.com/edebrouwer/gru_ode_bayes/tree/master/gru_ode_bayes/datasets/Climate
