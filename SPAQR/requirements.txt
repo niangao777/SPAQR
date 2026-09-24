@@ -1,0 +1,18 @@
+# Core training and evaluation
+torch>=2.0
+numpy
+pandas
+scikit-learn
+PyYAML
+requests
+tqdm
+einops
+accelerate
+coloredlogs
+
+# Parquet/Feather caches used by MIMIC-III and PhysioNet'12
+pyarrow
+
+# Optional: install only when the corresponding flag is used
+# ptflops  # --test_flop 1
+# wandb    # --wandb 1 or --sweep 1
